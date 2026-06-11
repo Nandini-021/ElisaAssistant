@@ -68,30 +68,6 @@ The primary objective of Elisa AI is to:
 
 ---
 
-## 📸 Application Screenshots
-
-### Home Screen
-
-(Add Screenshot)
-
-### Astronomy Query Example
-
-(Add Screenshot)
-
-### Space Mission Information
-
-(Add Screenshot)
-
-### Interactive Conversation
-
-(Add Screenshot)
-
-### Real-Time Information Retrieval
-
-(Add Screenshot)
-
----
-
 ## ⚙️ How It Works
 
 1. User submits a space-related query.
@@ -112,11 +88,9 @@ Elisa-AI/
 │
 ├── screenshots/
 │
-├── docs/
-│
 ├── README.md
-│
-└── LICENSE
+
+
 ```
 
 ---
@@ -159,7 +133,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-Developed by Pheonix
+Developed by Nandini
 
 *"Exploring the Universe Through Intelligent Conversations."* 🚀
 
