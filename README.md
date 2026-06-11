@@ -75,20 +75,8 @@ The primary objective of Elisa AI is to:
 3. Relevant knowledge and live web information are retrieved.
 4. The information is processed and structured.
 5. A detailed and accurate response is generated.
-
----
-
-## 📂 Project Structure
-
-```text
-Elisa-AI/
-│
-├── bot-export/
-│   └── Elisa_AI.bpz
-│
-├── screenshots/
-│
-├── README.md
+<img width="959" height="534" alt="Screenshot 2026-06-11 174128" src="https://github.com/user-attachments/assets/96cb0ab0-cdb1-4594-a017-da80a95821a4" />
+<img width="953" height="536" alt="Screenshot 2026-06-10 201841" src="https://github.com/user-attachments/assets/70c38ba4-de16-420f-ab45-0e5d9e6ab651" />
 
 
 ```
