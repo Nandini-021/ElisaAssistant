@@ -93,7 +93,6 @@ Elisa-AI/
 
 ```
 
----
 
 ## 🚀 Future Scope
 
@@ -122,12 +121,6 @@ Elisa-AI/
 ## 🌠 Vision
 
 To make space research and astronomical knowledge accessible, engaging, and understandable for everyone through intelligent AI-driven conversations.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
